@@ -21,7 +21,7 @@ for (i in names){
   all_samples[[i]]<-cbind(all_samples[[i]],AF)
 }
 
-gene_list<-COSMIC
+gene_list<-COSMIC #can be any list of genes, I used a custom curated list of COSMIC genes
 
 #or, make long fancy gene list to cover every possible gene
 gene_list<-c()
