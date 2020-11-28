@@ -9,13 +9,14 @@ The data used in these examples is used by in-progress research, and will be rel
 
 ### VEP Mutation Impact Graph
 
-![VEP](ExamplePlots/VEP_screenshot.png)
+![VEP](ExamplePlots/VEP_sceenshot.png)
 
 ### Copy Number Variation of Cosmic Genes 
 
 ![CNV](ExamplePlots/cnv_screenshot.png)
 
-The following are results from a similar pipeline which uses multiple variant callers using proprietary scripts that are not mine. I just wrote the analysis for this.
+
+The following are results from a sister pipeline which uses multiple variant callers using proprietary scripts that are not mine. I just wrote some of the annotation scripts as well as the analysis for this.
 
 ### Consensus Calling Results from ExomePlottingHuman.R
 
