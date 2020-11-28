@@ -5,6 +5,8 @@ All shell scripts are designed for use on the Stanford Computing Cluster, and th
 
 The data used in these examples is used by in-progress research, and will be released upon publication. These graphs are just examples of some of the analysis capabilities of my scripts. These examples come from paired tumor/normal tissue biopsies. 
 
+To prepare BAM files for analysis, the [GATK best practices workflow](https://gatk.broadinstitute.org/hc/en-us/articles/360035535912-Data-pre-processing-for-variant-discovery) was used
+
 ## Example Outputs
 
 ### VEP Mutation Impact Graph
