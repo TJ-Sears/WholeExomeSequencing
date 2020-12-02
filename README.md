@@ -22,7 +22,7 @@ The following are results from a sister pipeline which uses multiple variant cal
 
 ### Consensus Calling Results from ExomePlottingHuman.R
 
-![Consensus](ExamplePlots/human_screenshot.png)
+![Consensus](ExamplePlots/oncoprint.png)
 
 ### Allele Frequency Distribution
 
